@@ -89,8 +89,8 @@ body {
         -webkit-animation-delay: 0.8s; }
       .container .side .me .portrait img {
         display: none;
-        width: 8rem;
-        height: 8rem;
+        max-width: 100%;
+        height: auto;
         border-radius: 50%; }
   .container .side .info-unit ul li label {
     display: inline-block;
