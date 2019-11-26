@@ -145,23 +145,7 @@ body {
 /* -------------------------------------------------
  * 自定义部分
  * ------------------------------------------------- */
-.svg-icon {
-    width: 1.2em;
-    vertical-align: -0.15em;
-    fill: currentColor;
-    overflow: hidden;
-    height: 23.3333px;
-    margin-right: .3em;
-    }
- 
- 
-.fa {
-  font-size: 1.2em; }
- 
-h2 {
-  display: flex;
-  align-items: center;
-  font-size: 1.2em; }
+
 
 h3 {
   font-size: 1.1em; }
